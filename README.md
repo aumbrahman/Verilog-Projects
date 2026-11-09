@@ -1,4 +1,4 @@
-# Verilog HDL Portfolio — VLSI Interview Preparation
+# Verilog HDL Modules for RISC-V implementation
 
 > A progressive series of 25 Verilog projects built from scratch, covering
 > combinational logic → sequential logic → datapaths → CPU microarchitecture →
